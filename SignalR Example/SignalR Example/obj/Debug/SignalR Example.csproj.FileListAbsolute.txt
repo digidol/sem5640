@@ -1,0 +1,19 @@
+D:\nst\Visual Studio\SignalR Example\SignalR Example\bin\SignalR Example.dll.config
+D:\nst\Visual Studio\SignalR Example\SignalR Example\bin\SignalR Example.dll
+D:\nst\Visual Studio\SignalR Example\SignalR Example\bin\SignalR Example.pdb
+D:\nst\Visual Studio\SignalR Example\SignalR Example\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\nst\Visual Studio\SignalR Example\SignalR Example\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\nst\Visual Studio\SignalR Example\SignalR Example\bin\Microsoft.Owin.dll
+D:\nst\Visual Studio\SignalR Example\SignalR Example\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\nst\Visual Studio\SignalR Example\SignalR Example\bin\Microsoft.Owin.Security.dll
+D:\nst\Visual Studio\SignalR Example\SignalR Example\bin\Newtonsoft.Json.dll
+D:\nst\Visual Studio\SignalR Example\SignalR Example\bin\Owin.dll
+D:\nst\Visual Studio\SignalR Example\SignalR Example\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\nst\Visual Studio\SignalR Example\SignalR Example\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\nst\Visual Studio\SignalR Example\SignalR Example\bin\Microsoft.Owin.xml
+D:\nst\Visual Studio\SignalR Example\SignalR Example\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\nst\Visual Studio\SignalR Example\SignalR Example\bin\Microsoft.Owin.Security.xml
+D:\nst\Visual Studio\SignalR Example\SignalR Example\bin\Newtonsoft.Json.xml
+D:\nst\Visual Studio\SignalR Example\SignalR Example\obj\Debug\SignalR Example.csprojResolveAssemblyReference.cache
+D:\nst\Visual Studio\SignalR Example\SignalR Example\obj\Debug\SignalR Example.dll
+D:\nst\Visual Studio\SignalR Example\SignalR Example\obj\Debug\SignalR Example.pdb
