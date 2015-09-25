@@ -17,6 +17,7 @@ D:\nst\Visual Studio\SignalR Example\SignalR Example\bin\Newtonsoft.Json.xml
 D:\nst\Visual Studio\SignalR Example\SignalR Example\obj\Debug\SignalR Example.csprojResolveAssemblyReference.cache
 D:\nst\Visual Studio\SignalR Example\SignalR Example\obj\Debug\SignalR Example.dll
 D:\nst\Visual Studio\SignalR Example\SignalR Example\obj\Debug\SignalR Example.pdb
+<<<<<<< HEAD
 D:\nst\sem5640\SignalR Example\SignalR Example\bin\SignalR Example.dll.config
 D:\nst\sem5640\SignalR Example\SignalR Example\bin\SignalR Example.dll
 D:\nst\sem5640\SignalR Example\SignalR Example\bin\SignalR Example.pdb
@@ -36,3 +37,5 @@ D:\nst\sem5640\SignalR Example\SignalR Example\bin\Newtonsoft.Json.xml
 D:\nst\sem5640\SignalR Example\SignalR Example\obj\Debug\SignalR Example.csprojResolveAssemblyReference.cache
 D:\nst\sem5640\SignalR Example\SignalR Example\obj\Debug\SignalR Example.dll
 D:\nst\sem5640\SignalR Example\SignalR Example\obj\Debug\SignalR Example.pdb
+=======
+>>>>>>> f2c9a888f4b56363165f64d42cb6c7e6d4d0ee6f

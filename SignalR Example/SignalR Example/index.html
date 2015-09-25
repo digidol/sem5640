@@ -16,7 +16,10 @@
         <input type="text" id="message" />
         <input type="button" id="sendmessage" value="Send" />
         <input type="hidden" id="displayname" />
+<<<<<<< HEAD
         <div id="hello"></div>
+=======
+>>>>>>> f2c9a888f4b56363165f64d42cb6c7e6d4d0ee6f
         <ul id="discussion"></ul>
     </div>
     <!--Script references. -->
@@ -41,9 +44,13 @@
                     + '</strong>:&nbsp;&nbsp;' + encodedMsg + '</li>');
             };
             // Get the user name and store it to prepend to messages.
+<<<<<<< HEAD
             var name = prompt('Enter your name:', '');
             $('#displayname').val(name);
             $('#hello').html('Hello ' + name); 
+=======
+            $('#displayname').val(prompt('Enter your name:', ''));
+>>>>>>> f2c9a888f4b56363165f64d42cb6c7e6d4d0ee6f
             // Set initial focus to message input box.
             $('#message').focus();
             // Start the connection.
